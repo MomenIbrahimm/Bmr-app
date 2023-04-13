@@ -1,8 +1,6 @@
 import 'package:bmi/components.dart';
 import 'package:flutter/material.dart';
 
-import 'bmi_screen.dart';
-
 class InformationScreen extends StatelessWidget {
   const InformationScreen({Key? key}) : super(key: key);
 
