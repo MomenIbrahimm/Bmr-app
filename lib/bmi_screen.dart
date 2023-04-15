@@ -33,7 +33,7 @@ class _BmiScreenState extends State<BmiScreen> {
               ),
               Center(
                   child: defaultText(
-                      text: 'GENDER', fontWeight: FontWeight.w500, size: 22.0)),
+                      text: 'GENDER', fontWeight: FontWeight.w500, size: 21.5)),
               Row(
                 children: [
                   defaultContainer(
